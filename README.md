@@ -2,7 +2,7 @@
 <p>NontonYuk adalah aplikasi web untuk pemesanan tiket bioskop yang dibangun dengan framework Laravel. Aplikasi ini memungkinkan pengguna untuk melihat jadwal film, melakukan pemesanan tiket, dan mengelola data film (untuk admin).</p>
 
 ## Struktur Project
-'''
+''
 NontonYuk/
 ├── app/
 │   ├── Http/
@@ -94,7 +94,7 @@ NontonYuk/
 ├── phpunit.xml
 ├── README.md
 └── vite.config.js
-'''
+''
 
 ## Fitur Utama
 
